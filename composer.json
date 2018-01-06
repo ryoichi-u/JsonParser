@@ -1,0 +1,10 @@
+{
+    "name": "ryoichi-u/json-parser",
+    "authors": [
+        {
+            "name": "ryoichi-u",
+            "email": "nogami.ueno0515@gmail.com"
+        }
+    ],
+    "require": {}
+}
