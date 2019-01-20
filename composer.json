@@ -7,6 +7,12 @@
         }
     ],
     "require": {
-        "guzzle/guzzle": "^3.9"
+        "guzzle/guzzle": "^3.9",
+        "nesbot/carbon": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "JsonParser\\": "src"
+        }
     }
 }
